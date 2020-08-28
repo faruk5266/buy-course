@@ -1,0 +1,10 @@
+.file-container{
+    border-right: 1px solid lightgray;
+    width: 80%;
+}
+.course-container{
+    display: flex;
+}
+.summary-container{
+    margin-left: 30px;
+}

@@ -1,0 +1,32 @@
+.file{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.file img{
+    display: full;
+    margin-top: 30px;
+    width: 100%;
+    margin-left: 40px;  
+    
+}
+.data-area{
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+.main-btn{
+    background-color:goldenrod;
+    height: 30px;
+    width: 150px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.name{
+    color: rgb(0, 17, 255);
+}
+.price{
+    color: red;
+}

@@ -1,0 +1,10 @@
+.btn{
+    background-color:goldenrod;
+    height: 30px;
+    width: 150px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.head{
+    color: rgb(21, 160, 90);
+}

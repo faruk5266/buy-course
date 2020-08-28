@@ -1,10 +1,16 @@
 import React from 'react';
 import logo from './logo.svg';
+import Header from './components/Header/Header';
 import './App.css';
+import Course from './components/MainCourse/Course';
+
 
 function App() {
   return (
-    <h1>this is react</h1>
+    <div>
+       <Header></Header>
+       <Course></Course>
+    </div>
   );
 }
 
